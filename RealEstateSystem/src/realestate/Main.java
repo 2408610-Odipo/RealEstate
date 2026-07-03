@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * Module: Property Catalog Management
- * Developer: Musa Odipo 2408610
  * System: Real Estate Management System
  */
 
